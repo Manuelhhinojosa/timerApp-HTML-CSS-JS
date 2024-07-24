@@ -35,6 +35,6 @@ An interactive timer app that displays a simple animation as time goes by
 
 ---
 
-### [link](https://manuelhh.github.io/timer-app/) to the app
+### [link](https://timermhh.netlify.app/) to the app
 
 ---
